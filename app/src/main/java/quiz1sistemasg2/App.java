@@ -27,7 +27,7 @@ public class App {
         // Calcular valor total antes de descuentos
         double valorAntesDescuentos = valorBase;
 
-        // Calcular Valor Final de Descuento
+        // Calcular Valor Final de Descuento 1
         double valorConDescuento = calcularDescuento(valorAntesDescuentos, horas, esEstudianteBoolean);
 
         // Calcular IVA (19%)
